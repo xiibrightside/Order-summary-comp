@@ -16,6 +16,7 @@ body {
   transform: translate(-50%, -50%);
   flex-direction: row;
   overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.34) 0px 3px 8px;
 }
 
 .heroimage {
